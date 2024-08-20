@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cduncan2023
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning about deep / machine learning and design algorithms 
-- 📫 How to reach me carladuncan241@gmail.com
+- 🌱 I’m currently learning about artifical intelligence and mobile applications
+- 📫 How to reach me carladuncan241@gmail.com or cduncan2023@fau.edu 
 - ⚡ Fun fact: I love to read, play racquetball, and try new foods!
 
 <!---
